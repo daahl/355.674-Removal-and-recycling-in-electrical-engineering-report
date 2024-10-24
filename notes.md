@@ -10,9 +10,11 @@ Can be fund is somewhat larger concentration around vulkanoes.
 
 ## Headlines and questions:
 
-- Introduction:
+- Background (will be the same as abstract?):
     - Motivation of the report
     - What will and won't be covered, and why
+
+- Introduction
     - What are REs?
     - Why are they called rare?
     - Where are REs used?
