@@ -13,6 +13,7 @@ Can be fund is somewhat larger concentration around vulkanoes.
 - Background (will be the same as abstract?):
     - Motivation of the report
     - What will and won't be covered, and why
+        - not any chemical/electrical properites (too much depth, not the focus of the report)
 
 - Introduction
     - What are REs?
@@ -37,7 +38,7 @@ Can be fund is somewhat larger concentration around vulkanoes.
 
 - Looking ahead
     - What are the alternatives?
-    - Not using rare earths?
+        - Not using rare earths?
     - What are the future prospects?
 
 - Summary
@@ -66,3 +67,17 @@ Can be fund is somewhat larger concentration around vulkanoes.
 - In 2017 China acocunted for 80% (105'000 tons of RE oxide) of the worlds mined supply
 - China has a black market that is believed to add an aditional 25 % of the official production
 - Because of monopolistic position, China could raise the prices by several houndred percent in 2009-2011, and impose export quotas
+- Demands for REEs increase at a rate of 10% each year. The current known reserves would last an estimated 900 years at 2017 yeas usage, but with the increase in demand, the reserves would last until mid 21st century without recycling
+- Presently compounds used in phosphors and catalysts are recycled. But batteries such as nickel-metal hydrite batteries and some permanent magnets holds 25-30 % of their weight in REEs, more than any ore deposit. this could be extracted using known methods
+- Recycling of REEs must be done simultainiously with the recycling of other metals, silver, ogld, palladium, alimunum, colabt, nickel, copper, etc.
+- Science and engineering must be improved and solved such that it's easier to recucle
+- REEs are mined from minerals. 160 are known to contain REEs, but only four are mined: bastnasite laterite clays, monazite, and loparite. There are also deep-sea muds that contains REEs, such as Minamitori Island muds
+
+#### Bioleaching
+- Kolla upp Forti et al. 2020 om e-waste stream
+- bioleaching is an alternative to Pyrometallurgy and hydrometallurgical methods. BL doesn't require as much chemials or energy
+- REE recovery rates are low using other bacterial methods, 10-50 % requiring 2 weeks (see Priya and Hait, 2020)
+- used Penicillium expansum, could extract 70 % in 24 h
+
+#### REE_landscape
+- 
