@@ -12,34 +12,51 @@ Can be fund is somewhat larger concentration around vulkanoes.
 
 - Background (will be the same as abstract?):
     - Motivation of the report
+        - Give an inssigt and introduction to the topic of REEs, the current status/status of REEs, and current sciences dealing with recycling and replacing the use of REEs
     - What will and won't be covered, and why
-        - not any chemical/electrical properites (too much depth, not the focus of the report)
+        - not deep into any chemical/electrical properites (too much depth, not the focus of the report), only talk about the chemials properties briefly
+        - historical aspects, such as where they were first found
 
 - Introduction
-    - What are REs?
+    - What are REEs?
+        - A group of 17(?) metals/minerals with special properties
+        - They are similar is some senses, but different in other
+        - The availability of REEs differes between the different REEs
+        - lanthanide series + scandium and yttrium
     - Why are they called rare?
+        - Not because of the actual availability, but rather because of the difficulties (mostly economical) in obtaining them
+        - Due to chemical similarities, it makes it difficult to extract them
     - Where are REs used?
-    - What are the functions of REs?
+        - Everywhere! Electronics, strong permanent magnets (neodymium, samarium), screens, catalysators (cerium), wid turbines, phosphors, etc.
+    - What are the functions of REEs?
+        - They have magnetic, catalytic, luminicent properties
 
 - Global aspects
     - World wide yearly usage
     - Economic value
     - Global branch ditribution
     - Political aspects
+        - China controlls 70 % of global supply
 
 - Environmental
     - How and where are they mined?
+        - From 160(?) different minerals/clays
     - How are they processed?
     - What are the environmental impacts?
     - Toxicity?
     - How are they recycled/recovered?
+        - Where are they globally recycled?
         - Biologial approach
+            - Bacteria and fungii
         - Chemical approach
+            - Chemicals
+        - Heat (most popular)
 
 - Looking ahead
     - What are the alternatives?
         - Not using rare earths?
     - What are the future prospects?
+        - Running out of REEs?
 
 - Summary
     - Key points
@@ -80,4 +97,15 @@ Can be fund is somewhat larger concentration around vulkanoes.
 - used Penicillium expansum, could extract 70 % in 24 h
 
 #### REE_landscape
+- China controll over 70 % of the gloval REE supply
+- mining is often unregulated. issues with illegal mining operations
+- recylcing aligns with a circular economy approach
+- has a nice figure on page 3 about availability!
+- China is also dominant in processing capabilities
+- There are Light REEs, LREEs, and Heavy REEs, HREEs. Difficult to separate the two, as they have similar chemical properties, requiring intricate and precise techniques
+- the presence of radioactive elements such as thorium and uranium adds more complexity to the extraction
+- the estimated reserves change due to: more exploration, advancements in exploration techniques, advancements in refining making previously uneconomical deposits profitable
+- availability is not only dependent on geological abundance, but also hinges on geopolitical, -economical, and -technological factors
+- first process step for ores is physical, such as crushing and grinding, which is then followed by various concentration techniques
+- sulfuric acid is used to leach REEs from bastnaesite, and sodium hydroxide is used for monazite and xenotime
 - 
