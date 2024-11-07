@@ -13,9 +13,11 @@ Can be fund is somewhat larger concentration around vulkanoes.
 - Background (will be the same as abstract?):
     - Motivation of the report
         - Give an inssigt and introduction to the topic of REEs, the current status/status of REEs, and current sciences dealing with recycling and replacing the use of REEs
+        
     - What will and won't be covered, and why
         - not deep into any chemical/electrical properites (too much depth, not the focus of the report), only talk about the chemials properties briefly
         - historical aspects, such as where they were first found
+        - most focus on sustainable aspects, less focus on uses
 
 - Introduction
     - What are REEs?
@@ -107,5 +109,24 @@ Can be fund is somewhat larger concentration around vulkanoes.
 - the estimated reserves change due to: more exploration, advancements in exploration techniques, advancements in refining making previously uneconomical deposits profitable
 - availability is not only dependent on geological abundance, but also hinges on geopolitical, -economical, and -technological factors
 - first process step for ores is physical, such as crushing and grinding, which is then followed by various concentration techniques
-- sulfuric acid is used to leach REEs from bastnaesite, and sodium hydroxide is used for monazite and xenotime
+- sulfuric acid is used to leach REEs from bastnaesite, and sodium hydroxide is used for monazite and xenotime. but an issue is that other impurities are also desolved, necessitating subsequent purifications steps
+- something about ion exchange techniques
+- electrochemical processing is also a more environmentally friendly technique
+- mining of REEs typically involves significant disrubtion to the land
+- illigal mining operations typically cause a lot more environmental damage, due to lack of regulation and use of non-compliant mining practices
+- in-situ leaching is a method with a high potential of environmental damage due to, but not limited to, chemicals leaking into nearby water bodies
+- in-situ leaching, when used properly, has the potential to extract REEs with less damage to the surface environment and to produce less mining waste
+- mining sites can be rehabilited post mining to try and restore the surrounding nature
+- REEs are used in air filtering, because they can capture air pollution, and also facilitate oxidation of exhaust gases
+- REEs can also be used for water filtration thanks to their absoptive properties
+- REEs are used as catalyzators in advanced oxygen processes (AOPs)
+- REEs can also be used when addressing soil contamination by immobilizing heavy metals in soils. REEs can also bse used to increase the extraction of contaminants from the soil from plants
+- REEs can also be used to imporve the quality of cement, reudcing the need for repairs and replacement
+- REEs can also bse used in additive manufacturing, which increases the durability of the materials
+- The use of REEs extends beyond the traditional sectors, which showcases their versitilety
+- the pricing of REEs on a global stage is influenced by export regulations, tariffs, and trade agreements
+- advancements in recycling of REEs is also influencing the market trends and investments
+-the green transitiion and the effort of reducing carbon emissions causes a high demand in REEs for the production of ie. wind turbines and electric vehices
+- many policies from many countries and unions also regulate the trade, mining, recycling, and disposal of REEs
+- primary (mining) and secondary (recycling) sources
 - 
