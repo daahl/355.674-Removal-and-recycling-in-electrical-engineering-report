@@ -25,6 +25,7 @@ Can be fund is somewhat larger concentration around vulkanoes.
         - They are similar is some senses, but different in other
         - The availability of REEs differes between the different REEs
         - lanthanide series + scandium and yttrium
+        - (check if lithium, gold, silver, are classed as REEs)
     - Why are they called rare?
         - Not because of the actual availability, but rather because of the difficulties (mostly economical) in obtaining them
         - Due to chemical similarities, it makes it difficult to extract them
@@ -37,15 +38,19 @@ Can be fund is somewhat larger concentration around vulkanoes.
     - World wide yearly usage
     - Economic value
     - Global branch ditribution
+    - How and where are they mined?
+        - From 160(?) different minerals/clays
     - Political aspects
         - China controlls 70 % of global supply
 
 - Environmental
-    - How and where are they mined?
+    - How are they mined (environmental aspects)?
         - From 160(?) different minerals/clays
     - How are they processed?
     - What are the environmental impacts?
     - Toxicity?
+    
+- Recycling
     - How are they recycled/recovered?
         - Where are they globally recycled?
         - Biologial approach
@@ -64,6 +69,8 @@ Can be fund is somewhat larger concentration around vulkanoes.
     - Key points
     - Reasearch questions
     - Recommendations
+
+- AI statement
 
 ## Notes from sources
 
@@ -129,4 +136,3 @@ Can be fund is somewhat larger concentration around vulkanoes.
 -the green transitiion and the effort of reducing carbon emissions causes a high demand in REEs for the production of ie. wind turbines and electric vehices
 - many policies from many countries and unions also regulate the trade, mining, recycling, and disposal of REEs
 - primary (mining) and secondary (recycling) sources
-- 
