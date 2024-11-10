@@ -74,7 +74,7 @@ Can be fund is somewhat larger concentration around vulkanoes.
 
 ## Notes from sources
 
-#### From "Rare Earths _ Department of energy" accessed 2025-10-25:
+#### SRC1 - From "Rare Earths _ Department of energy" accessed 2025-10-25:
 - REEs are comprised of 17 elements
 - plays a critical role in national secutiry, energy independence, aconomic growth, advanced techonolgy, magnets, batteries, phosphors, catalysts, and more
 - used in all sectors, such as health care, transportation, power generation, petrolium, consumer electronics, and more
@@ -82,7 +82,7 @@ Can be fund is somewhat larger concentration around vulkanoes.
 - coal byproducts is a potential source of REEs
 - extraction has environmental impacts
 
-#### From "Rare Earth Elements - Abundance, Occurance ... Britanica" accessed 2025-10-25:
+#### SRC3 - From "Rare Earth Elements - Abundance, Occurance ... Britanica" accessed 2025-10-25:
 - REEs are chemically very similar to eachother. This is one reason for using them, but the main reason for using them are their unique properties
 - Discovered in 18th century, year 1787, in Ytterby, Sweden, by army lieutenant Carl Axel Arrhenius. Cerenium was isolated in 1803. Seemed to be scarse at the time, but they are in reality abundant throughout the earth's crust. 16 naturally occuring ones fall in the 50th percentile of elemental abundances
 - By the 21st century, China was the worlds largest producer, but extraction takes place in many countries
@@ -99,13 +99,13 @@ Can be fund is somewhat larger concentration around vulkanoes.
 - Science and engineering must be improved and solved such that it's easier to recucle
 - REEs are mined from minerals. 160 are known to contain REEs, but only four are mined: bastnasite laterite clays, monazite, and loparite. There are also deep-sea muds that contains REEs, such as Minamitori Island muds
 
-#### Bioleaching
+#### SRC4 - Bioleaching
 - Kolla upp Forti et al. 2020 om e-waste stream
 - bioleaching is an alternative to Pyrometallurgy and hydrometallurgical methods. BL doesn't require as much chemials or energy
 - REE recovery rates are low using other bacterial methods, 10-50 % requiring 2 weeks (see Priya and Hait, 2020)
 - used Penicillium expansum, could extract 70 % in 24 h
 
-#### REE_landscape
+#### SRC2 - REE_landscape
 - China controll over 70 % of the gloval REE supply
 - mining is often unregulated. issues with illegal mining operations
 - recylcing aligns with a circular economy approach
