@@ -44,13 +44,11 @@ Can be fund is somewhat larger concentration around vulkanoes.
         - China controlls 70 % of global supply
 
 - Environmental
-    - How are they mined (environmental aspects)?
-        - From 160(?) different minerals/clays
     - How are they processed?
     - What are the environmental impacts?
     - Toxicity?
     
-- Recycling
+- Recycling and recovery
     - How are they recycled/recovered?
         - Where are they globally recycled?
         - Biologial approach
@@ -58,9 +56,11 @@ Can be fund is somewhat larger concentration around vulkanoes.
         - Chemical approach
             - Chemicals
         - Heat (most popular)
+    - Recovery from coal byproducts
 
 - Looking ahead
     - What are the alternatives?
+        - Other viable sources?
         - Not using rare earths?
     - What are the future prospects?
         - Running out of REEs?
@@ -69,8 +69,7 @@ Can be fund is somewhat larger concentration around vulkanoes.
     - Key points
     - Reasearch questions
     - Recommendations
-
-- AI statement
+    - AI statement
 
 ## Notes from sources
 
