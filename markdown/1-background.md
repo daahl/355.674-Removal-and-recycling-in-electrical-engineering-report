@@ -15,4 +15,4 @@ The following report on Rare Earth Elements (henceforth called REEs), is aimed a
 
 ### Topics that will be left out
 
-As the main focus of the report is on the environmental and recycling aspects of REEs, the author felt like it would diverge too much from the main topic to also include chapters on the what and why of the chemical, mechanical, thermal, or electrical properties of REEs that are any deeper than to mention that these properties exist and are used. To understand, and be able to peoperly author such content, would require the reader, and autor, to posess the specific technical knowledge for these different property topics.
+As the main focus of the report is on the environmental and recycling aspects of REEs, the author felt like it would diverge too much from the main topic to also include chapters on the what and why of the chemical, mechanical, thermal, or electrical properties of REEs that are any deeper than to mention that these properties exist and are used. To understand, and be able to properly author such content, would require the reader, and author, to posess the specific technical knowledge for these different property topics.

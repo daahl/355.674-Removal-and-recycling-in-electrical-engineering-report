@@ -22,7 +22,11 @@ Recovery of REEs from hard coal plants in Poland (src1). Content of REEs of the 
 
 ### Other viable sources
 
+Extraction from urban sources, ie. urban mining, uses 17 times less energy according to the Norwegian reserach institute (src7, or add 1st hand src?).
+
 ### Not using rare earths
+
+3R rule: reduce, reuse, recycle. Additonally also "redesign" (src7 -> Debnath et al. 2018)
 
 ## Future prospects
 

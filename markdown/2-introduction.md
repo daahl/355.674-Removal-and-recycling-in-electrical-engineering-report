@@ -19,7 +19,7 @@
 
 # Introduction
 
-The following chapter will introduce REEs for individuals who are only vaguely or not at all familiar with them.
+The following chapter will introduce REEs for individuals who are only vaguely or not at all familiar with them. There will be a short introduction to e-waste as well, as recovery of e-waste and REEs are tighly connected. The main focus of this report will be on the enviromental aspects and the recycling of REEs.
 
 ## What are REEs?
 

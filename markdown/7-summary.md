@@ -8,6 +8,8 @@
 
 # Summary
 
+The use of bio-leaching processes could be a good environmentally friendly alternative when they reach a higher efficiency and broader industrial usage.
+
 ## Key points
 
 ## Research questions

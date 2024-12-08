@@ -6,6 +6,7 @@ Can be fund is somewhat larger concentration around vulkanoes.
 
 Look through my sources to see if any are meta studies. If so, take the sources from the meta studies.
 
+Check out Forti et al. 2020 about e-waste streams
 
 
 ## Notes from sources
@@ -30,3 +31,6 @@ Look through my sources to see if any are meta studies. If so, take the sources 
 - used Penicillium expansum, could extract 70 % in 24 h
 
 #### SRC5 - From "Coal in Poland"
+
+#### SRC7 - Jaced e-waste
+- Has some nice figues that I might use
