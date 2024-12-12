@@ -11,7 +11,7 @@
 
 # Recycling and recovery
 
-The recovery of REEs from end-of-life (EOL) products is a challenge that is gaining more attention as the demand for REEs increases (src1). Another reason for the increase in interest in recycling REEs is the environmental impact of mining and processing REEs (src1). Presently it is mosly phosphors and catalysts that are recycled (src3). However, batteries such as nickel-metal hydrite batteries and some permanent magnets holds 25-30 % of their weight in REEs, which is more than any ore deposit (src3). Recycling aligns with a circular economy approach (src2).
+The recovery of REEs from end-of-life (EOL) products is a challenge that is gaining more attention as the demand for REEs increases (src1). Another reason for the increase in interest in recycling REEs is the environmental impact of mining and processing REEs (src1). Presently it is mosly phosphors and catalysts that are recycled (src3). However, batteries such as nickel-metal hydrite batteries and some permanent magnets holds 25-30 % of their weight in REEs, which is more than any ore deposit (src3). Recycling aligns with a circular economy approach (src2). Recovery is difficult for many reasons, including mixture of materials and metals in the products, use of glass, polymers, and other non-metals.
 
 Traditional methods involve using chemicals to dissolve the REEs from the product, and then precipitate them out of the solution (add src). Other methods also involve using heat or electricity to extract the REEs (add src). The similarities between the different extraction technicues is that they try to exploit the different chemical and physical properties of the REEs to separate them from eachother and the ore or electronical waste (add src). What make this process difficult is that the REEs are chemically very similar to eachother (src3), which requires a high degree of precision and accuracy in the separation process (add src).
 
@@ -56,8 +56,9 @@ Acid leaching is the most common approach for metal recovery from electronic was
 
 ### Bio-hydrometallurgical approach ...
 
-The use of bacteria or fungii is gaining attention as an alternative to traditional hydro- and pyrometallurgical methods (add src). In one study it was found that the bacteria Pseudomonas chlororaphis was able to disolve Ag, Au, and Cu at rates of 8.2%, 12.1%, and 52.3% respectively (src7 -> Ruan et al. 2014). Another study looked at the fungii A. niger, also known as black mold, and found that in a two-step chemo-bioleaching process, a recovery rate of 70.6% of Cu was acheived (src7 -> Jadhav et al). The use of biological agents is still new, and there are many variables that has to be controlled to make the process reliable (pH, temperature, contamination, etc.) (src7).
+The use of bacteria or fungii is gaining attention as an alternative to traditional hydro- and pyrometallurgical methods (add src). In one study it was found that the bacteria Pseudomonas chlororaphis was able to disolve Ag, Au, and Cu at rates of 8.2%, 12.1%, and 52.3% respectively (src7 -> Ruan et al. 2014). Another study looked at the fungii A. niger, also known as black mold, and found that in a two-step chemo-bioleaching process, a recovery rate of 70.6% of Cu was acheived (src7 -> Jadhav et al). The use of biological agents is still new, and there are many variables that has to be controlled to make the process reliable (pH, temperature, contamination, etc.) (src7). Ionic liquids (Ils) can potentially play a role in te future of metal extration (src7). Ils are often hydrophobic and can therefore also extract other hydrophobic materials. They do however come with the downside of being toxic and having poor biodegradability. Another future candidate are deep eutectic solvents (DES), which are overcome these problems of Ils (src7). Another compound that has been explored is glycine (src7 -> Li et al. 2018). It has shown to be effective at dissolving Cu at a rate of 98% after 48 h. But it does struggle with solving other metals such as Au and Ag (src7).
 
+Chelating, which is the chemical process of binding a metal ion to a chemical compound, has also gained popularity in recent years (src7). By using biodegradable chemicals such as DTPA or NTA, metals such as Cr, Cu, Zn, and Pb can be removed from polluted soils (src7 Chauhan et al.).
 ## Pyrometallurgical recycling
 
 Even though it has a high and rapid recovery rate of REEs, it also has issues with high energy use (src6 -> 14). It is a method that uses high heat, themal extraction, of materials by melting and incineration (src7). One important downside of pyrometallurgy is the hazardous fumes that are released during the process. 
@@ -70,5 +71,10 @@ An alternative to hydrometallurgical recycling is acid-free recycling (src6 -> 1
 
 ## Green technologies
 
-Mentioned in src7. Include or not?
+Mentioned in src7. Include or not? membrane filtration, green adsorption, and photocatalysis.
+
+#### Also mention:
+different nuances to every technique, such as extraction in vaccuum, high pressure, different temperatures, etc. And also combinations of hydro- and pyrometallurgical methods (src7).
+
+
 

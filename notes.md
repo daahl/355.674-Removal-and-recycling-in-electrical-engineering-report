@@ -8,6 +8,7 @@ Look through my sources to see if any are meta studies. If so, take the sources 
 
 Check out Forti et al. 2020 about e-waste streams
 
+Include a nomenclature section
 
 ## Notes from sources
 
@@ -34,3 +35,4 @@ Check out Forti et al. 2020 about e-waste streams
 
 #### SRC7 - Jaced e-waste
 - Has some nice figues that I might use
+- src7 has a nice table in Table 3 with pros and cons of the different methods.
