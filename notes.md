@@ -36,3 +36,9 @@ Include a nomenclature section
 #### SRC7 - Jaced e-waste
 - Has some nice figues that I might use
 - src7 has a nice table in Table 3 with pros and cons of the different methods.
+
+#### SRC8 - Emerging tech
+- Has a list of the 17 REEs in the intro
+- Has a figure, Fig 1 and Fig 2, on pre-treatment of WEEE
+- Include Fig 4 to show pyro process
+- Figure 5 is nice overview of hydrometallurgical processes
