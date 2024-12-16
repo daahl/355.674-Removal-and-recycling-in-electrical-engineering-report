@@ -61,7 +61,9 @@ The use of bacteria or fungii is gaining attention as an alternative to traditio
 Chelating, which is the chemical process of binding a metal ion to a chemical compound, has also gained popularity in recent years (src7). By using biodegradable chemicals such as DTPA or NTA, metals such as Cr, Cu, Zn, and Pb can be removed from polluted soils (src7 Chauhan et al.).
 ## Pyrometallurgical recycling
 
-Even though it has a high and rapid recovery rate of REEs, it also has issues with high energy use (src6 -> 14). It is a method that uses high heat, themal extraction, of materials by melting and incineration (src7). One important downside of pyrometallurgy is the hazardous fumes that are released during the process. 
+Even though it has a high and rapid recovery rate of REEs, it also has issues with high energy use (src6 -> 14). It is a method that uses high heat, themal extraction, of materials by melting and incineration (src7). One important downside of pyrometallurgy is the hazardous fumes that are released during the process. It involves melting in a blast furnace, plasma arc furnace, or copper melter, as well as incineration and high heat roasting (src8). Metalls can be recovered from the gas. It has about an 70% recovery rate (src8 -> Cui and Rover 2011). Does not adhere to the UN sustainability goals, as it releases dioxins and uses a high amount of energy, and can create toxic slag. Advanced as it requires a advanced control system (costly) (src8 -> Cui and Zhang 2008a, b). Mostly Cu is recovered. Some metals can not be recovered, leading to losses of potentially recoverable metals.
+
+By using a vaccuum pyrometallurgical approach, REEs can be recovered with the help of sublimation and distillation (src8). This process is better at recovering heavy metals such as Sb, Pb, and Bi (src8 -> Flandinet et al 2012, Zhan and Xu 2009).
 
 ## Acid-free recycling
 
@@ -72,6 +74,9 @@ An alternative to hydrometallurgical recycling is acid-free recycling (src6 -> 1
 ## Green technologies
 
 Mentioned in src7. Include or not? membrane filtration, green adsorption, and photocatalysis.
+
+## Cryo milling
+
 
 #### Also mention:
 different nuances to every technique, such as extraction in vaccuum, high pressure, different temperatures, etc. And also combinations of hydro- and pyrometallurgical methods (src7).
