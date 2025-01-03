@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.5)  3 JAN 2025 09:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.5)  3 JAN 2025 11:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -275,13 +275,142 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 LaTeX Warning: Citation `javed2024' on page 1 undefined on input line 7.
 
 
+LaTeX Warning: Citation `USDoE2024' on page 1 undefined on input line 7.
+
+
+LaTeX Warning: Citation `britannica2024' on page 1 undefined on input line 7.
+
+
+LaTeX Warning: Citation `britannica2024' on page 1 undefined on input line 7.
+
+
+LaTeX Warning: Citation `britannica2024' on page 1 undefined on input line 11.
+
+
+
+
+LaTeX Warning: Citation `USDoE2024' on page 1 undefined on input line 15.
+
+
+LaTeX Warning: Citation `britannica2024' on page 1 undefined on input line 15.
+
+
+LaTeX Warning: Citation `USDoE2024' on page 1 undefined on input line 15.
+
+
+LaTeX Warning: Citation `USDoE2024' on page 1 undefined on input line 15.
+
+
+LaTeX Warning: Citation `USDoE2024' on page 1 undefined on input line 15.
+
+
+LaTeX Warning: Citation `USDoE2024' on page 1 undefined on input line 15.
+
+
+LaTeX Warning: Citation `britannica2024' on page 1 undefined on input line 15.
+
+
+LaTeX Warning: Citation `additive2022' on page 1 undefined on input line 15.
+
+
+LaTeX Warning: Citation `cement2009' on page 1 undefined on input line 15.
+
+
+LaTeX Warning: Citation `soil2017b' on page 1 undefined on input line 15.
+
+
+LaTeX Warning: Citation `water2024' on page 1 undefined on input line 15.
 
 ) (sections/3-globalaspects.tex
+
+LaTeX Warning: Citation `politics2022' on page 1 undefined on input line 4.
+
+
 
 [1{C:/Users/Marcus/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Marcus/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
 
 
-]) (sections/4-environment.tex
+]
+
+LaTeX Warning: Citation `REELandscape' on page 2 undefined on input line 14.
+
+
+LaTeX Warning: Citation `politics2022' on page 2 undefined on input line 14.
+
+
+LaTeX Warning: Citation `windturbines2022' on page 2 undefined on input line 18.
+
+
+LaTeX Warning: Citation `britannica2024' on page 2 undefined on input line 22.
+
+
+LaTeX Warning: Citation `REELandscape' on page 2 undefined on input line 22.
+
+
+LaTeX Warning: Citation `britannica2024' on page 2 undefined on input line 22.
+
+
+LaTeX Warning: Citation `britannica2024' on page 2 undefined on input line 22.
+
+
+LaTeX Warning: Citation `britannica2024' on page 2 undefined on input line 22.
+
+
+LaTeX Warning: Citation `britannica2024' on page 2 undefined on input line 22.
+
+
+LaTeX Warning: Citation `ChinaRefining' on page 2 undefined on input line 26.
+
+
+LaTeX Warning: Citation `britannica2024' on page 2 undefined on input line 26.
+
+
+LaTeX Warning: Citation `ChinaRefining' on page 2 undefined on input line 26.
+
+
+LaTeX Warning: Citation `britannica2024' on page 2 undefined on input line 26.
+
+
+LaTeX Warning: Citation `britannica2024' on page 2 undefined on input line 26.
+
+
+LaTeX Warning: Citation `REELandscape' on page 2 undefined on input line 26.
+
+) (sections/4-environment.tex
+
+LaTeX Warning: Citation `REELandscape' on page 2 undefined on input line 4.
+
+
+LaTeX Warning: Citation `REELandscape' on page 2 undefined on input line 4.
+
+
+LaTeX Warning: Citation `britannica2024' on page 2 undefined on input line 4.
+
+
+
+
+LaTeX Warning: Citation `unregulatedMining' on page 2 undefined on input line 9.
+
+
+LaTeX Warning: Citation `unregulatedMining' on page 2 undefined on input line 9.
+
+
+LaTeX Warning: Citation `REELandscape' on page 2 undefined on input line 9.
+
+
+LaTeX Warning: Citation `unregulatedMining' on page 2 undefined on input line 9.
+
+
+LaTeX Warning: Citation `unregulatedMining' on page 2 undefined on input line 9.
+
+
+LaTeX Warning: Citation `javed2024' on page 2 undefined on input line 17.
+
+
+LaTeX Warning: Citation `javed2024' on page 2 undefined on input line 17.
+
+
+LaTeX Warning: Citation `javed2024' on page 2 undefined on input line 18.
 
 LaTeX Font Info:    Trying to load font information for U+msa on input line 18.
 (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
@@ -290,20 +419,94 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 18.
  (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)) (sections/5-recycling.tex
+)
+
+LaTeX Warning: Citation `javed2024' on page 2 undefined on input line 18.
+
+) (sections/5-recycling.tex
 
 [2]
+
+LaTeX Warning: Citation `javed2024' on page 3 undefined on input line 7.
+
+
+LaTeX Warning: Citation `javed2024' on page 3 undefined on input line 7.
+
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 7.
- (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+(C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 
+LaTeX Warning: Citation `javed2024' on page 3 undefined on input line 9.
 
-Underfull \vbox (badness 3189) has occurred while \output is active []
+
+LaTeX Warning: Citation `javed2024' on page 3 undefined on input line 13.
+
+
+LaTeX Warning: Citation `USDoE2024' on page 3 undefined on input line 17.
+
+
+LaTeX Warning: Citation `USDoE2024' on page 3 undefined on input line 17.
+
+
+LaTeX Warning: Citation `britannica2024' on page 3 undefined on input line 17.
+
+
+LaTeX Warning: Citation `britannica2024' on page 3 undefined on input line 17.
+
+
+LaTeX Warning: Citation `britannica2024' on page 3 undefined on input line 19.
+
+
+LaTeX Warning: Citation `javed2024' on page 3 undefined on input line 23.
+
+
+LaTeX Warning: Citation `javed2024' on page 3 undefined on input line 23.
+
+
+LaTeX Warning: Citation `javed2024' on page 3 undefined on input line 23.
+
+
+
+
+LaTeX Warning: Citation `javed2024' on page 3 undefined on input line 27.
+
+
+LaTeX Warning: Citation `javed2024' on page 3 undefined on input line 33.
+
+
+LaTeX Warning: Citation `javed2024' on page 3 undefined on input line 35.
+
+
+LaTeX Warning: Citation `javed2024' on page 3 undefined on input line 35.
+
+
+LaTeX Warning: Citation `javed2024' on page 3 undefined on input line 35.
+
+
+LaTeX Warning: Citation `javed2024' on page 3 undefined on input line 39.
+
+
+LaTeX Warning: Citation `javed2024' on page 3 undefined on input line 45.
 
 
 
 [3]
+
+LaTeX Warning: Citation `javed2024' on page 4 undefined on input line 51.
+
+
+LaTeX Warning: Citation `javed2024' on page 4 undefined on input line 53.
+
+
+LaTeX Warning: Citation `javed2024' on page 4 undefined on input line 53.
+
+
+LaTeX Warning: Citation `javed2024' on page 4 undefined on input line 55.
+
+
+LaTeX Warning: Citation `javed2024' on page 4 undefined on input line 57.
+
 sections/5-recycling.tex:61: You can't use `macro parameter character #' in vertical mode.
 l.61 #
       # Acid-free recycling
@@ -352,8 +555,6 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-
-
 sections/5-recycling.tex:71: You can't use `macro parameter character #' in vertical mode.
 l.71 #
       # Cryo milling
@@ -369,6 +570,8 @@ Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
+
+
 
 sections/5-recycling.tex:74: You can't use `macro parameter character #' in vertical mode.
 l.74 #
@@ -402,9 +605,19 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
+
+LaTeX Warning: Citation `javed2024' on page 4 undefined on input line 75.
+
 ) (sections/6-lookahead.tex
-Underfull \hbox (badness 1540) in paragraph at lines 4--5
-\OT1/ptm/m/n/10 mid-21st cen-tury (src3), or an-other 314 years (src5 or
+
+LaTeX Warning: Citation `britannica2024' on page 4 undefined on input line 4.
+
+
+LaTeX Warning: Citation `britannica2024' on page 4 undefined on input line 4.
+
+
+Underfull \hbox (badness 4144) in paragraph at lines 4--5
+\OT1/ptm/m/n/10 mid-21st cen-tury [\OT1/ptm/b/n/10 ?\OT1/ptm/m/n/10 ], or an-other 314 years (src5 or
  []
 
 sections/6-lookahead.tex:12: Undefined control sequence.
@@ -415,6 +628,9 @@ of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `USDoE2024' on page 4 undefined on input line 14.
 
 ) (sections/7-summary.tex
 
@@ -447,15 +663,15 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 4221 strings out of 473899
- 68692 string characters out of 5726028
- 470197 words of memory out of 5000000
- 27040 multiletter control sequences out of 15000+600000
+ 4232 strings out of 473899
+ 68847 string characters out of 5726028
+ 471197 words of memory out of 5000000
+ 27051 multiletter control sequences out of 15000+600000
  590556 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,8n,65p,1492b,275s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,8n,65p,1613b,275s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Marcus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Marcus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Marcus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Marcus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Marcus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Marcus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (5 pages, 99401 bytes).
+Output written on main.pdf (5 pages, 100324 bytes).
 PDF statistics:
  49 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
