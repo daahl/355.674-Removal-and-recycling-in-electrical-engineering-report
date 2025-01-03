@@ -2451,7 +2451,7 @@
     <bcf:citekey order="76" intorder="1">javed2024</bcf:citekey>
     <bcf:citekey order="77" intorder="1">javed2024</bcf:citekey>
     <bcf:citekey order="78" intorder="1">USDoE2024</bcf:citekey>
-    <bcf:citekey order="79" intorder="1">USDoE2024</bcf:citekey>
+    <bcf:citekey order="79" intorder="1">REELandscape</bcf:citekey>
     <bcf:citekey order="80" intorder="1">britannica2024</bcf:citekey>
     <bcf:citekey order="81" intorder="1">britannica2024</bcf:citekey>
     <bcf:citekey order="82" intorder="1">circular2016</bcf:citekey>
@@ -2467,27 +2467,29 @@
     <bcf:citekey order="92" intorder="1">javed2024</bcf:citekey>
     <bcf:citekey order="93" intorder="1">javed2024</bcf:citekey>
     <bcf:citekey order="94" intorder="1">javed2024</bcf:citekey>
-    <bcf:citekey order="95" intorder="1">javed2024</bcf:citekey>
-    <bcf:citekey order="96" intorder="1">javed2024</bcf:citekey>
+    <bcf:citekey order="95" intorder="1">bioleaching</bcf:citekey>
+    <bcf:citekey order="96" intorder="1">ANiger</bcf:citekey>
     <bcf:citekey order="97" intorder="1">javed2024</bcf:citekey>
     <bcf:citekey order="98" intorder="1">javed2024</bcf:citekey>
     <bcf:citekey order="99" intorder="1">javed2024</bcf:citekey>
-    <bcf:citekey order="100" intorder="1">javed2024</bcf:citekey>
+    <bcf:citekey order="100" intorder="1">glycine</bcf:citekey>
     <bcf:citekey order="101" intorder="1">javed2024</bcf:citekey>
     <bcf:citekey order="102" intorder="1">javed2024</bcf:citekey>
-    <bcf:citekey order="103" intorder="1">coalPoland</bcf:citekey>
-    <bcf:citekey order="104" intorder="1">britannica2024</bcf:citekey>
-    <bcf:citekey order="105" intorder="1">britannica2024</bcf:citekey>
-    <bcf:citekey order="106" intorder="1">coalPoland</bcf:citekey>
-    <bcf:citekey order="107" intorder="1">REETechnology</bcf:citekey>
-    <bcf:citekey order="108" intorder="1">USDoE2024</bcf:citekey>
-    <bcf:citekey order="109" intorder="1">coalPoland</bcf:citekey>
-    <bcf:citekey order="110" intorder="1">ashPalmer</bcf:citekey>
+    <bcf:citekey order="103" intorder="1">javed2024</bcf:citekey>
+    <bcf:citekey order="104" intorder="1">javed2024</bcf:citekey>
+    <bcf:citekey order="105" intorder="1">coalPoland</bcf:citekey>
+    <bcf:citekey order="106" intorder="1">britannica2024</bcf:citekey>
+    <bcf:citekey order="107" intorder="1">britannica2024</bcf:citekey>
+    <bcf:citekey order="108" intorder="1">coalPoland</bcf:citekey>
+    <bcf:citekey order="109" intorder="1">REETechnology</bcf:citekey>
+    <bcf:citekey order="110" intorder="1">USDoE2024</bcf:citekey>
     <bcf:citekey order="111" intorder="1">coalPoland</bcf:citekey>
-    <bcf:citekey order="112" intorder="1">javed2024</bcf:citekey>
-    <bcf:citekey order="113" intorder="1">javed2024</bcf:citekey>
+    <bcf:citekey order="112" intorder="1">ashPalmer</bcf:citekey>
+    <bcf:citekey order="113" intorder="1">coalPoland</bcf:citekey>
     <bcf:citekey order="114" intorder="1">javed2024</bcf:citekey>
-    <bcf:citekey order="115" intorder="1">motorNoREE</bcf:citekey>
+    <bcf:citekey order="115" intorder="1">javed2024</bcf:citekey>
+    <bcf:citekey order="116" intorder="1">javed2024</bcf:citekey>
+    <bcf:citekey order="117" intorder="1">motorNoREE</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
