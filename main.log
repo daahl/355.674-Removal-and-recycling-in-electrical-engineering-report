@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.5)  3 JAN 2025 15:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.5)  5 JAN 2025 11:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -547,3 +547,509 @@ Package biblatex Info: ... file 'english.lbx' found.
  (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
 File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
 )
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' not found.
+
+No file main.bbl.
+Package biblatex Info: Reference section=0 on input line 16.
+Package biblatex Info: Reference segment=0 on input line 16.
+(sections/1-background.tex) (sections/2-introduction.tex
+
+LaTeX Warning: Citation 'javed2024' on page 1 undefined on input line 7.
+
+
+LaTeX Warning: Citation 'USDoE2024' on page 1 undefined on input line 7.
+
+
+LaTeX Warning: Citation 'britannica2024' on page 1 undefined on input line 7.
+
+
+LaTeX Warning: Citation 'sciencehistory2024' on page 1 undefined on input line 7.
+
+
+LaTeX Warning: Citation 'britannica2024' on page 1 undefined on input line 7.
+
+
+
+
+LaTeX Warning: Citation 'sciencehistory2024' on page 1 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'britannica2024' on page 1 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'diamonds' on page 1 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'REEDistribution' on page 1 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'REEDistribution' on page 1 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'REEDistribution' on page 1 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'USDoE2024' on page 1 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'britannica2024' on page 1 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'USDoE2024' on page 1 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'britannica2024' on page 1 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'britannica2024' on page 1 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'britannica2024' on page 1 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'USDoE2024' on page 1 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'USDoE2024' on page 1 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'USDoE2024' on page 1 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'britannica2024' on page 1 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'additive2022' on page 1 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'cement2009' on page 1 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'soil2017b' on page 1 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'water2024' on page 1 undefined on input line 15.
+
+)
+
+[1{C:/Users/Marcus/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Marcus/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
+
+
+] (sections/3-globalaspects.tex
+
+LaTeX Warning: Citation 'politics2022' on page 2 undefined on input line 4.
+
+
+LaTeX Warning: Citation 'REEPrediction' on page 2 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'REEPrediction' on page 2 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'REEPrediction' on page 2 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'britannica2024' on page 2 undefined on input line 10.
+
+
+LaTeX Warning: Citation 'REELandscape' on page 2 undefined on input line 10.
+
+
+LaTeX Warning: Citation 'britannica2024' on page 2 undefined on input line 10.
+
+
+LaTeX Warning: Citation 'britannica2024' on page 2 undefined on input line 10.
+
+
+LaTeX Warning: Citation 'britannica2024' on page 2 undefined on input line 10.
+
+
+LaTeX Warning: Citation 'britannica2024' on page 2 undefined on input line 10.
+
+
+LaTeX Warning: Citation 'britannica2024' on page 2 undefined on input line 10.
+
+
+LaTeX Warning: Citation 'britannica2024' on page 2 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'EU2014' on page 2 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'US2018' on page 2 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'britannica2024' on page 2 undefined on input line 18.
+
+
+LaTeX Warning: Citation 'britannica2024' on page 2 undefined on input line 18.
+
+
+LaTeX Warning: Citation 'REELandscape' on page 2 undefined on input line 18.
+
+
+LaTeX Warning: Citation 'politics2022' on page 2 undefined on input line 18.
+
+
+LaTeX Warning: Citation 'windturbines2022' on page 2 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'ChinaRefining' on page 2 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'britannica2024' on page 2 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'ChinaRefining' on page 2 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'britannica2024' on page 2 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'britannica2024' on page 2 undefined on input line 24.
+
+)
+
+(sections/4-environment.tex
+
+LaTeX Warning: Citation 'REELandscape' on page 2 undefined on input line 4.
+
+
+LaTeX Warning: Citation 'REELandscape' on page 2 undefined on input line 4.
+
+
+LaTeX Warning: Citation 'britannica2024' on page 2 undefined on input line 4.
+
+
+LaTeX Warning: Citation 'unregulatedMining' on page 2 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'unregulatedMining' on page 2 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'REELandscape' on page 2 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'unregulatedMining' on page 2 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'unregulatedMining' on page 2 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'HREELREE' on page 2 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'radioactive' on page 2 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'REELandscape' on page 2 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'radioactive' on page 2 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'radioactive' on page 2 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'javed2024' on page 2 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'baselconv' on page 2 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'javed2024' on page 2 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'javed2024' on page 2 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'javed2024' on page 2 undefined on input line 16.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 16.
+(C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 16.
+ (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Warning: Citation 'javed2024' on page 2 undefined on input line 16.
+
+
+
+[2]) (sections/5-recycling.tex
+
+LaTeX Warning: Citation 'WEEE' on page 3 undefined on input line 4.
+
+
+LaTeX Warning: Citation 'sanchez2024' on page 3 undefined on input line 4.
+
+
+LaTeX Warning: Citation 'javed2024' on page 3 undefined on input line 4.
+
+
+LaTeX Warning: Citation 'javed2024' on page 3 undefined on input line 4.
+
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 4.
+(C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+
+LaTeX Warning: Citation 'ewastemarket' on page 3 undefined on input line 4.
+
+
+LaTeX Warning: Citation 'sanchez2024' on page 3 undefined on input line 4.
+
+
+LaTeX Warning: Citation 'javed2024' on page 3 undefined on input line 6.
+
+
+LaTeX Warning: Citation 'hdds' on page 3 undefined on input line 6.
+
+
+LaTeX Warning: Citation 'javed2024' on page 3 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'javed2024' on page 3 undefined on input line 10.
+
+<figures/javed_composition.png, id=12, 939.51pt x 593.21625pt>
+File: figures/javed_composition.png Graphic file (type png)
+<use figures/javed_composition.png>
+Package pdftex.def Info: figures/javed_composition.png  used on input line 14.
+(pdftex.def)             Requested size: 516.0pt x 325.8083pt.
+
+LaTeX Warning: Citation 'javed2024' on page 3 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'USDoE2024' on page 3 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'REELandscape' on page 3 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'britannica2024' on page 3 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'britannica2024' on page 3 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'circular2016' on page 3 undefined on input line 21.
+
+
+
+
+LaTeX Warning: Citation 'sanchez2024' on page 3 undefined on input line 23.
+
+
+LaTeX Warning: Citation 'sanchez2024' on page 3 undefined on input line 23.
+
+
+LaTeX Warning: Citation 'sanchez2024' on page 3 undefined on input line 23.
+
+
+LaTeX Warning: Citation 'britannica2024' on page 3 undefined on input line 23.
+
+
+LaTeX Warning: Citation 'javed2024' on page 3 undefined on input line 27.
+
+<figures/javier_processoverview.png, id=13, 1308.38812pt x 738.50906pt>
+File: figures/javier_processoverview.png Graphic file (type png)
+<use figures/javier_processoverview.png>
+Package pdftex.def Info: figures/javier_processoverview.png  used on input line 31.
+(pdftex.def)             Requested size: 516.0pt x 291.2515pt.
+
+LaTeX Warning: Citation 'javed2024' on page 3 undefined on input line 32.
+
+
+LaTeX Warning: Citation 'javed2024' on page 3 undefined on input line 38.
+
+
+LaTeX Warning: Citation 'cyanide' on page 3 undefined on input line 38.
+
+
+LaTeX Warning: Citation 'cyanide' on page 3 undefined on input line 38.
+
+
+LaTeX Warning: Citation 'javed2024' on page 3 undefined on input line 38.
+
+
+LaTeX Warning: Citation 'thiourea' on page 3 undefined on input line 40.
+
+
+LaTeX Warning: Citation 'javed2024' on page 3 undefined on input line 40.
+
+
+LaTeX Warning: Citation 'javed2024' on page 3 undefined on input line 40.
+
+
+LaTeX Warning: Citation 'thiourea' on page 3 undefined on input line 40.
+
+
+LaTeX Warning: Citation 'javed2024' on page 3 undefined on input line 40.
+
+
+LaTeX Warning: Citation 'javed2024' on page 3 undefined on input line 44.
+
+
+LaTeX Warning: Citation 'javed2024' on page 3 undefined on input line 44.
+
+
+
+[3]
+
+LaTeX Warning: Citation 'javed2024' on page 4 undefined on input line 48.
+
+
+LaTeX Warning: Citation 'bioleaching' on page 4 undefined on input line 48.
+
+
+LaTeX Warning: Citation 'ANiger' on page 4 undefined on input line 50.
+
+
+LaTeX Warning: Citation 'javed2024' on page 4 undefined on input line 50.
+
+
+LaTeX Warning: Citation 'javed2024' on page 4 undefined on input line 52.
+
+
+LaTeX Warning: Citation 'javed2024' on page 4 undefined on input line 52.
+
+
+LaTeX Warning: Citation 'glycine' on page 4 undefined on input line 54.
+
+
+LaTeX Warning: Citation 'javed2024' on page 4 undefined on input line 54.
+
+
+LaTeX Warning: Citation 'javed2024' on page 4 undefined on input line 56.
+
+
+LaTeX Warning: Citation 'javed2024' on page 4 undefined on input line 56.
+
+
+
+
+LaTeX Warning: Citation 'javed2024' on page 4 undefined on input line 60.
+
+
+LaTeX Warning: Citation 'pyro' on page 4 undefined on input line 60.
+
+
+LaTeX Warning: Citation 'pyro' on page 4 undefined on input line 60.
+
+
+LaTeX Warning: Citation 'REEEmerging' on page 4 undefined on input line 60.
+
+
+LaTeX Warning: Citation 'REEEmerging' on page 4 undefined on input line 60.
+
+
+LaTeX Warning: Citation 'REEEmerging' on page 4 undefined on input line 60.
+
+)
+
+[4 <./figures/javed_composition.png (PNG copy)>] (sections/6-lookahead.tex
+
+LaTeX Warning: Citation 'coalPoland' on page 5 undefined on input line 3.
+
+
+LaTeX Warning: Citation 'britannica2024' on page 5 undefined on input line 3.
+
+
+LaTeX Warning: Citation 'britannica2024' on page 5 undefined on input line 3.
+
+
+LaTeX Warning: Citation 'coalPoland' on page 5 undefined on input line 3.
+
+
+LaTeX Warning: Citation 'REETechnology' on page 5 undefined on input line 3.
+
+
+LaTeX Warning: Citation 'USDoE2024' on page 5 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'coalPoland' on page 5 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'ashPalmer' on page 5 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'coalPoland' on page 5 undefined on input line 11.
+
+
+
+
+LaTeX Warning: Citation 'javed2024' on page 5 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'javed2024' on page 5 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'javed2024' on page 5 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'motorNoREE' on page 5 undefined on input line 19.
+
+) (sections/7-summary.tex
+
+[5 <./figures/javier_processoverview.png (PNG copy)>])
+
+LaTeX Warning: Empty bibliography on input line 51.
+
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+
+
+
+
+[6
+
+] (main.aux)
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-09-10>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 12337 strings out of 473899
+ 230515 string characters out of 5726028
+ 1059682 words of memory out of 5000000
+ 35062 multiletter control sequences out of 15000+600000
+ 592741 words of font info for 96 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 66i,8n,81p,1681b,1068s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Marcus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Marcus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Marcus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Marcus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Marcus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Marcus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (6 pages, 1719640 bytes).
+PDF statistics:
+ 54 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
