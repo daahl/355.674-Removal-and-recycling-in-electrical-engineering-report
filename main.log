@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.5)  3 JAN 2025 11:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.5)  3 JAN 2025 15:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -229,472 +229,321 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
-) (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+) (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
+ (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+) (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count291
+) (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count292
+ (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+
+C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty:213: Package biblatex Error: Incompatible package 'cite'.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.213 \blx@packageincompatibility
+                                 
+The 'cite' package and biblatex are incompatible.
+
+\c@tabx@nest=\count293
+\c@listtotal=\count294
+\c@listcount=\count295
+\c@liststart=\count296
+\c@liststop=\count297
+\c@citecount=\count298
+\c@citetotal=\count299
+\c@multicitecount=\count300
+\c@multicitetotal=\count301
+\c@instcount=\count302
+\c@maxnames=\count303
+\c@minnames=\count304
+\c@maxitems=\count305
+\c@minitems=\count306
+\c@citecounter=\count307
+\c@maxcitecounter=\count308
+\c@savedcitecounter=\count309
+\c@uniquelist=\count310
+\c@uniquename=\count311
+\c@refsection=\count312
+\c@refsegment=\count313
+\c@maxextratitle=\count314
+\c@maxextratitleyear=\count315
+\c@maxextraname=\count316
+\c@maxextradate=\count317
+\c@maxextraalpha=\count318
+\c@abbrvpenalty=\count319
+\c@highnamepenalty=\count320
+\c@lownamepenalty=\count321
+\c@maxparens=\count322
+\c@parenlevel=\count323
+\blx@tempcnta=\count324
+\blx@tempcntb=\count325
+\blx@tempcntc=\count326
+\c@blx@maxsection=\count327
+\blx@maxsegment@0=\count328
+\blx@notetype=\count329
+\blx@parenlevel@text=\count330
+\blx@parenlevel@foot=\count331
+\blx@sectionciteorder@0=\count332
+\blx@sectionciteorderinternal@0=\count333
+\blx@entrysetcounter=\count334
+\blx@biblioinstance=\count335
+\labelnumberwidth=\skip57
+\labelalphawidth=\skip58
+\biblabelsep=\skip59
+\bibitemsep=\skip60
+\bibnamesep=\skip61
+\bibinitsep=\skip62
+\bibparsep=\skip63
+\bibhang=\skip64
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\blx@langwohyphens=\language79
+\c@mincomprange=\count336
+\c@maxcomprange=\count337
+\c@mincompwidth=\count338
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+(C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2024/03/21 v3.20 biblatex datamodel (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'ieee.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count339
+\c@savedafterword=\count340
+\c@annotator=\count341
+\c@savedannotator=\count342
+\c@author=\count343
+\c@savedauthor=\count344
+\c@bookauthor=\count345
+\c@savedbookauthor=\count346
+\c@commentator=\count347
+\c@savedcommentator=\count348
+\c@editor=\count349
+\c@savededitor=\count350
+\c@editora=\count351
+\c@savededitora=\count352
+\c@editorb=\count353
+\c@savededitorb=\count354
+\c@editorc=\count355
+\c@savededitorc=\count356
+\c@foreword=\count357
+\c@savedforeword=\count358
+\c@holder=\count359
+\c@savedholder=\count360
+\c@introduction=\count361
+\c@savedintroduction=\count362
+\c@namea=\count363
+\c@savednamea=\count364
+\c@nameb=\count365
+\c@savednameb=\count366
+\c@namec=\count367
+\c@savednamec=\count368
+\c@translator=\count369
+\c@savedtranslator=\count370
+\c@shortauthor=\count371
+\c@savedshortauthor=\count372
+\c@shorteditor=\count373
+\c@savedshorteditor=\count374
+\c@labelname=\count375
+\c@savedlabelname=\count376
+\c@institution=\count377
+\c@savedinstitution=\count378
+\c@lista=\count379
+\c@savedlista=\count380
+\c@listb=\count381
+\c@savedlistb=\count382
+\c@listc=\count383
+\c@savedlistc=\count384
+\c@listd=\count385
+\c@savedlistd=\count386
+\c@liste=\count387
+\c@savedliste=\count388
+\c@listf=\count389
+\c@savedlistf=\count390
+\c@location=\count391
+\c@savedlocation=\count392
+\c@organization=\count393
+\c@savedorganization=\count394
+\c@origlocation=\count395
+\c@savedoriglocation=\count396
+\c@origpublisher=\count397
+\c@savedorigpublisher=\count398
+\c@publisher=\count399
+\c@savedpublisher=\count400
+\c@language=\count401
+\c@savedlanguage=\count402
+\c@origlanguage=\count403
+\c@savedoriglanguage=\count404
+\c@pageref=\count405
+\c@savedpageref=\count406
+\shorthandwidth=\skip65
+\shortjournalwidth=\skip66
+\shortserieswidth=\skip67
+\shorttitlewidth=\skip68
+\shortauthorwidth=\skip69
+\shorteditorwidth=\skip70
+\locallabelnumberwidth=\skip71
+\locallabelalphawidth=\skip72
+\localshorthandwidth=\skip73
+\localshortjournalwidth=\skip74
+\localshortserieswidth=\skip75
+\localshorttitlewidth=\skip76
+\localshortauthorwidth=\skip77
+\localshorteditorwidth=\skip78
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
+\c@textcitecount=\count407
+\c@textcitetotal=\count408
+\c@textcitemaxnames=\count409
+\c@biburlbigbreakpenalty=\count410
+\c@biburlbreakpenalty=\count411
+\c@biburlnumpenalty=\count412
+\c@biburlucpenalty=\count413
+\c@biburllcpenalty=\count414
+\biburlbigskip=\muskip19
+\biburlnumskip=\muskip20
+\biburlucskip=\muskip21
+\biburllcskip=\muskip22
+\c@smartand=\count415
+)
+Package biblatex Info: Trying to load bibliography style 'ieee'...
+Package biblatex Info: ... file 'ieee.bbx' found.
+ (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-ieee\ieee.bbx
+File: ieee.bbx 2024-11-20 v1.4b biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+ (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric-comp.bbx
+File: numeric-comp.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+ (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
+File: numeric.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+File: standard.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count416
+\c@bbx:relatedtotal=\count417
+))))
+Package biblatex Info: Trying to load citation style 'ieee'...
+Package biblatex Info: ... file 'ieee.cbx' found.
+ (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-ieee\ieee.cbx
+File: ieee.cbx 2024-11-20 v1.4b biblatex citation style
+Package biblatex Info: Trying to load citation style 'numeric-verb'...
+Package biblatex Info: ... file 'numeric-verb.cbx' found.
+ (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric-verb.cbx
+File: numeric-verb.cbx 2024/03/21 v3.20 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+Package biblatex Info: Redefining '\textcites'.
+))
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+ (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2024-09-10 L3 programming layer (loader) 
+ (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count291
+\l__color_backend_stack_int=\count418
 \l__pdf_internal_box=\box56
-) (main.aux)
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2024-09-10 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
+))
+\@quotelevel=\count419
+\@quotereset=\count420
+ (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 
 -- Lines per column: 56 (exact).
 (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count292
+\scratchcounter=\count421
 \scratchdimen=\dimen176
 \scratchbox=\box57
-\nofMPsegments=\count293
-\nofMParguments=\count294
+\nofMPsegments=\count422
+\nofMParguments=\count423
 \everyMPshowfont=\toks24
-\MPscratchCnt=\count295
+\MPscratchCnt=\count424
 \MPscratchDim=\dimen177
-\MPnumerator=\count296
-\makeMPintoPDFobject=\count297
+\MPnumerator=\count425
+\makeMPintoPDFobject=\count426
 \everyMPtoPDFconversion=\toks25
 ) (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-)) (sections/1-background.tex) (sections/2-introduction.tex
-
-LaTeX Warning: Citation `javed2024' on page 1 undefined on input line 7.
-
-
-LaTeX Warning: Citation `USDoE2024' on page 1 undefined on input line 7.
-
-
-LaTeX Warning: Citation `britannica2024' on page 1 undefined on input line 7.
-
-
-LaTeX Warning: Citation `britannica2024' on page 1 undefined on input line 7.
-
-
-LaTeX Warning: Citation `britannica2024' on page 1 undefined on input line 11.
-
-
-
-
-LaTeX Warning: Citation `USDoE2024' on page 1 undefined on input line 15.
-
-
-LaTeX Warning: Citation `britannica2024' on page 1 undefined on input line 15.
-
-
-LaTeX Warning: Citation `USDoE2024' on page 1 undefined on input line 15.
-
-
-LaTeX Warning: Citation `USDoE2024' on page 1 undefined on input line 15.
-
-
-LaTeX Warning: Citation `USDoE2024' on page 1 undefined on input line 15.
-
-
-LaTeX Warning: Citation `USDoE2024' on page 1 undefined on input line 15.
-
-
-LaTeX Warning: Citation `britannica2024' on page 1 undefined on input line 15.
-
-
-LaTeX Warning: Citation `additive2022' on page 1 undefined on input line 15.
-
-
-LaTeX Warning: Citation `cement2009' on page 1 undefined on input line 15.
-
-
-LaTeX Warning: Citation `soil2017b' on page 1 undefined on input line 15.
-
-
-LaTeX Warning: Citation `water2024' on page 1 undefined on input line 15.
-
-) (sections/3-globalaspects.tex
-
-LaTeX Warning: Citation `politics2022' on page 1 undefined on input line 4.
-
-
-
-[1{C:/Users/Marcus/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Marcus/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
-
-
-]
-
-LaTeX Warning: Citation `REELandscape' on page 2 undefined on input line 14.
-
-
-LaTeX Warning: Citation `politics2022' on page 2 undefined on input line 14.
-
-
-LaTeX Warning: Citation `windturbines2022' on page 2 undefined on input line 18.
-
-
-LaTeX Warning: Citation `britannica2024' on page 2 undefined on input line 22.
-
-
-LaTeX Warning: Citation `REELandscape' on page 2 undefined on input line 22.
-
-
-LaTeX Warning: Citation `britannica2024' on page 2 undefined on input line 22.
-
-
-LaTeX Warning: Citation `britannica2024' on page 2 undefined on input line 22.
-
-
-LaTeX Warning: Citation `britannica2024' on page 2 undefined on input line 22.
-
-
-LaTeX Warning: Citation `britannica2024' on page 2 undefined on input line 22.
-
-
-LaTeX Warning: Citation `ChinaRefining' on page 2 undefined on input line 26.
-
-
-LaTeX Warning: Citation `britannica2024' on page 2 undefined on input line 26.
-
-
-LaTeX Warning: Citation `ChinaRefining' on page 2 undefined on input line 26.
-
-
-LaTeX Warning: Citation `britannica2024' on page 2 undefined on input line 26.
-
-
-LaTeX Warning: Citation `britannica2024' on page 2 undefined on input line 26.
-
-
-LaTeX Warning: Citation `REELandscape' on page 2 undefined on input line 26.
-
-) (sections/4-environment.tex
-
-LaTeX Warning: Citation `REELandscape' on page 2 undefined on input line 4.
-
-
-LaTeX Warning: Citation `REELandscape' on page 2 undefined on input line 4.
-
-
-LaTeX Warning: Citation `britannica2024' on page 2 undefined on input line 4.
-
-
-
-
-LaTeX Warning: Citation `unregulatedMining' on page 2 undefined on input line 9.
-
-
-LaTeX Warning: Citation `unregulatedMining' on page 2 undefined on input line 9.
-
-
-LaTeX Warning: Citation `REELandscape' on page 2 undefined on input line 9.
-
-
-LaTeX Warning: Citation `unregulatedMining' on page 2 undefined on input line 9.
-
-
-LaTeX Warning: Citation `unregulatedMining' on page 2 undefined on input line 9.
-
-
-LaTeX Warning: Citation `HREELREE' on page 2 undefined on input line 13.
-
-
-LaTeX Warning: Citation `radioactive' on page 2 undefined on input line 13.
-
-
-LaTeX Warning: Citation `REELandscape' on page 2 undefined on input line 13.
-
-
-LaTeX Warning: Citation `radioactive' on page 2 undefined on input line 13.
-
-
-LaTeX Warning: Citation `radioactive' on page 2 undefined on input line 13.
-
-
-LaTeX Warning: Citation `javed2024' on page 2 undefined on input line 17.
-
-
-LaTeX Warning: Citation `javed2024' on page 2 undefined on input line 17.
-
-
-LaTeX Warning: Citation `javed2024' on page 2 undefined on input line 18.
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 18.
-(C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+))
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 18.
- (C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-
-LaTeX Warning: Citation `javed2024' on page 2 undefined on input line 18.
-
-) (sections/5-recycling.tex
-
-[2]
-
-LaTeX Warning: Citation `javed2024' on page 3 undefined on input line 7.
-
-
-LaTeX Warning: Citation `javed2024' on page 3 undefined on input line 7.
-
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 7.
-(C:\Users\Marcus\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-
-LaTeX Warning: Citation `javed2024' on page 3 undefined on input line 9.
-
-
-LaTeX Warning: Citation `javed2024' on page 3 undefined on input line 13.
-
-
-LaTeX Warning: Citation `USDoE2024' on page 3 undefined on input line 17.
-
-
-LaTeX Warning: Citation `USDoE2024' on page 3 undefined on input line 17.
-
-
-LaTeX Warning: Citation `britannica2024' on page 3 undefined on input line 17.
-
-
-LaTeX Warning: Citation `britannica2024' on page 3 undefined on input line 17.
-
-
-LaTeX Warning: Citation `circular2016' on page 3 undefined on input line 17.
-
-
-LaTeX Warning: Citation `britannica2024' on page 3 undefined on input line 19.
-
-
-LaTeX Warning: Citation `javed2024' on page 3 undefined on input line 23.
-
-
-LaTeX Warning: Citation `javed2024' on page 3 undefined on input line 23.
-
-
-LaTeX Warning: Citation `javed2024' on page 3 undefined on input line 23.
-
-
-
-
-LaTeX Warning: Citation `javed2024' on page 3 undefined on input line 27.
-
-
-LaTeX Warning: Citation `javed2024' on page 3 undefined on input line 33.
-
-
-LaTeX Warning: Citation `javed2024' on page 3 undefined on input line 35.
-
-
-LaTeX Warning: Citation `javed2024' on page 3 undefined on input line 35.
-
-
-LaTeX Warning: Citation `javed2024' on page 3 undefined on input line 35.
-
-
-LaTeX Warning: Citation `javed2024' on page 3 undefined on input line 39.
-
-
-LaTeX Warning: Citation `javed2024' on page 3 undefined on input line 45.
-
-
-
-[3]
-
-LaTeX Warning: Citation `javed2024' on page 4 undefined on input line 51.
-
-
-LaTeX Warning: Citation `javed2024' on page 4 undefined on input line 53.
-
-
-LaTeX Warning: Citation `javed2024' on page 4 undefined on input line 53.
-
-
-LaTeX Warning: Citation `javed2024' on page 4 undefined on input line 55.
-
-
-LaTeX Warning: Citation `javed2024' on page 4 undefined on input line 57.
-
-sections/5-recycling.tex:61: You can't use `macro parameter character #' in vertical mode.
-l.61 #
-      # Acid-free recycling
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-sections/5-recycling.tex:61: You can't use `macro parameter character #' in vertical mode.
-l.61 ##
-        Acid-free recycling
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-sections/5-recycling.tex:65: You can't use `macro parameter character #' in vertical mode.
-l.65 #
-      # Biological recycling
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-sections/5-recycling.tex:65: You can't use `macro parameter character #' in vertical mode.
-l.65 ##
-        Biological recycling
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-sections/5-recycling.tex:67: You can't use `macro parameter character #' in vertical mode.
-l.67 #
-      # Green technologies
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-sections/5-recycling.tex:67: You can't use `macro parameter character #' in vertical mode.
-l.67 ##
-        Green technologies
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-sections/5-recycling.tex:71: You can't use `macro parameter character #' in vertical mode.
-l.71 #
-      # Cryo milling
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-sections/5-recycling.tex:71: You can't use `macro parameter character #' in vertical mode.
-l.71 ##
-        Cryo milling
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-
-sections/5-recycling.tex:74: You can't use `macro parameter character #' in vertical mode.
-l.74 #
-      ### Also mention:
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-sections/5-recycling.tex:74: You can't use `macro parameter character #' in vertical mode.
-l.74 ##
-       ## Also mention:
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-sections/5-recycling.tex:74: You can't use `macro parameter character #' in vertical mode.
-l.74 ###
-        # Also mention:
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-sections/5-recycling.tex:74: You can't use `macro parameter character #' in vertical mode.
-l.74 ####
-          Also mention:
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-LaTeX Warning: Citation `javed2024' on page 4 undefined on input line 75.
-
-) (sections/6-lookahead.tex
-
-LaTeX Warning: Citation `britannica2024' on page 4 undefined on input line 4.
-
-
-LaTeX Warning: Citation `britannica2024' on page 4 undefined on input line 4.
-
-
-LaTeX Warning: Citation `REETechnology' on page 4 undefined on input line 4.
-
-
-Underfull \hbox (badness 4144) in paragraph at lines 4--5
-\OT1/ptm/m/n/10 mid-21st cen-tury [\OT1/ptm/b/n/10 ?\OT1/ptm/m/n/10 ], or an-other 314 years (src5 or
- []
-
-sections/6-lookahead.tex:12: Undefined control sequence.
-l.12 \subssubection
-                   {Extraction from coal byproducts}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-LaTeX Warning: Citation `USDoE2024' on page 4 undefined on input line 14.
-
-) (sections/7-summary.tex
-
-[4])
-
-** Conference Paper **
-Before submitting the final camera ready copy, remember to:
-
- 1. Manually equalize the lengths of two columns on the last page
- of your paper;
-
- 2. Ensure that any PostScript and/or PDF output post-processing
- uses only Type 1 fonts and that every step in the generation
- process uses the appropriate paper size.
-
-
-
-
-
-[5
-
-] (main.aux)
- ***********
-LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-09-10>
- ***********
-
-
-LaTeX Warning: There were undefined references.
-
- ) 
-Here is how much of TeX's memory you used:
- 4236 strings out of 473899
- 68899 string characters out of 5726028
- 471197 words of memory out of 5000000
- 27055 multiletter control sequences out of 15000+600000
- 590556 words of font info for 94 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 57i,8n,65p,1613b,275s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Marcus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Marcus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Marcus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Marcus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Marcus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Marcus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (5 pages, 100439 bytes).
-PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
-
